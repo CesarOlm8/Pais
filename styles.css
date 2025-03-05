@@ -1,0 +1,14 @@
+@charset "utf-8";
+h1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+table {
+    background-color: #A21619;
+}
+body {
+    background-color: #000000;
+}
+a:link {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
